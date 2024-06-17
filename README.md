@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aravindha Loshan Senthilkumar</h1>
 <h3 align="center">A Passionate Data Science Student</h3>
 
-<img src="https://media.tenor.com/VqTNrY5IqSgAAAAC/pretty-cute-white.gif" alt="Call Center Working GIF">
+<img align="center" src="https://media.tenor.com/VqTNrY5IqSgAAAAC/pretty-cute-white.gif" alt="Call Center Working GIF" class="">
+
 
 
 - 🔭 I’m currently working on **Tamil Chat Bot, Sales Dashboard Creation**
